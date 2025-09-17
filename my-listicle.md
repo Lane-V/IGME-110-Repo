@@ -8,4 +8,5 @@
 ## Other
 - [Look at Wikipedia](https://www.wikipedia.org/)
 
-(Note: the creator of this list does **not** condone avoid your work. Don't fail, kids.)
+
+(Note: the creator of this list does **not** condone avoiding your work. Don't fail, kids.)
